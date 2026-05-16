@@ -1,0 +1,7 @@
+#ifndef OMCTP_CONFIG_CONSTS_H
+#define OMCTP_CONFIG_CONSTS_H
+
+// OS:
+#define CFG_OS_WIN32 1
+
+#endif // OMCTP_CONFIG_CONSTS_H

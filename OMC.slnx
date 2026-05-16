@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OMCtp/OMCtp.vcxproj" Id="a226ccfa-65a9-4ad1-b324-ceeb006f3886" />
+</Solution>
