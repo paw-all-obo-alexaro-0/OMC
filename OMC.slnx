@@ -3,5 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="OMCsrc/OMCsrc.vcxitems" Id="f0129dfc-0386-4a46-9303-bd987ba62be3" />
   <Project Path="OMCtp/OMCtp.vcxproj" Id="a226ccfa-65a9-4ad1-b324-ceeb006f3886" />
 </Solution>

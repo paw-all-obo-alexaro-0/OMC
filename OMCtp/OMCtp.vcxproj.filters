@@ -26,10 +26,10 @@
     <ClInclude Include="..\ext\omc\omctp\config.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="..\ext\omc\omctp\win.h">
+    <ClInclude Include="..\ext\omc\omctp\config_consts.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
-    <ClInclude Include="..\ext\omc\omctp\config_consts.h">
+    <ClInclude Include="src\main.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
   </ItemGroup>
